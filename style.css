@@ -1,0 +1,160 @@
+
+/* Header-- Nav-bar */
+.primary-nav{
+    font-size: 10px;
+    font-weight: 600;
+    margin-left: 10px;
+    text-align: right;
+    cursor: pointer;
+    letter-spacing: .3px;
+    font-size: 20px;
+} 
+.logo {
+    border-bottom: 4px;
+    float: left;
+}
+.primary-nav a{
+    padding: 5px;
+    text-decoration: none;
+    color: #000;
+    font-style: none;
+}
+ul{
+    display: inline-flex;
+    margin-right: 30px;
+    list-style: none;
+}
+.container{
+    display: inline;
+}
+/* Make better coffee */
+h1{
+    font-size: 50px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 73px;
+    width: 70%;
+}
+p{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #718096;
+    line-height: 17px;
+}
+/* long established */
+.row{
+    display: inline-flex;
+}
+.alt{
+    background: #FFFFFF;
+    border: 1px solid #E2E2E2;
+    box-sizing: border-box;
+    box-shadow: 0px 5px 4px rgba(221, 221, 221, 0.25);
+    border-radius: 5px;
+    margin-left: 60px;
+}
+.alt p{
+    left: 5.41%;
+    right: 52.86%;
+    top: 42.8%;
+    bottom: 36.21%;
+}
+h3{
+    left: 5.62%;
+    right: 68.89%;
+    top: 16.87%;
+    bottom: 68.31%;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+}
+.col-2-3{
+    width: 45%;
+    margin-right: 60px;
+    margin-left: 40px;
+}
+.col-1-3{
+    width: 50%;
+    margin-left: 40px;
+}
+.more{
+    float: right;
+}
+
+/* etablishment */
+.grid{
+    display: flex;
+}
+.grid{
+    margin-left: 40px;
+}
+.col{
+    margin: 20px;
+    box-shadow: 0px 4px 4px rgba(192, 189, 189, 0.25);
+    border-radius: 5px;
+}
+/* Lorem Ipsum */
+h4{
+    font-family: Inter;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 48px;
+}
+.lorem{
+    background: #F7FAFC;
+    margin-left: 20px;
+}
+.col1-3{
+    padding-left: 90px;
+}
+.seen{
+    background: #6B46C1;
+    border-radius: 5px;
+    float: right;
+    color: #fff;
+    margin-right: 200px;
+}
+
+/* footer */
+/* Article */
+.bonarum{
+    margin-left: 200px;
+    color: #718096;
+}
+.bonarum h2{
+    width: 632px;
+    height: 46px;
+    left: 192px;
+    top: 531px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 54px;
+    color: #2D3748;
+}
+.bonarum strong{
+    width: 203px;
+    height: 23px;
+    left: 192px;
+    top: 596px;
+    font-size: 18px;
+    line-height: 22px;
+    color: #2D3748;
+}
+.malorum{
+    border-bottom: 1px solid #E2E2E2;
+    margin-right: 500px;
+    padding-bottom: 10px;
+}
+
+
+
